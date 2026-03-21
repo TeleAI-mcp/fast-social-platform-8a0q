@@ -1,2 +1,3 @@
-# fast-social-platform-8a0q
-A social networking platform for modern development workflows
+# Fast Social Platform 8A0Q
+
+A social networking platform for modern development workflows.
